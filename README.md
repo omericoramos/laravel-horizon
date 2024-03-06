@@ -168,10 +168,6 @@ Altere o valor do `command` para o path do seu artisan da aplicação
 Altere o valor do `user` para o o usuario do sistema
 
 Altere o `stdout_logfile` para p path que deseja salvar o arquivo de log
-## Aprendizados
-
-O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
-
 
 ## Referência
 
